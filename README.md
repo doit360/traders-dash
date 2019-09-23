@@ -1,4 +1,4 @@
-# graphs
+# Traders Dash
 
 ## Project setup
 ```
