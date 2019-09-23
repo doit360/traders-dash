@@ -6,7 +6,7 @@
       data-theme="dark"
       data-chrome="transparent"
       href="https://twitter.com/whale_alert?ref_src=twsrc%5Etfw"
-    >Tweets by whale_alert</a>
+    ></a>
   </Tile>
 </template>
 
