@@ -3,12 +3,12 @@
   "short_name": "Traders Dash",
   "icons": [
     {
-      "src": "./img/icons/192x192.png",
+      "src": "./img/icons/196x196.png",
       "sizes": "196x196",
       "type": "image/png"
     },
     {
-      "src": "./img/icons/android-chrome-512x512.png",
+      "src": "./img/icons/512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
